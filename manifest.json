@@ -1,0 +1,13 @@
+{
+  "name": "DoberAI",
+  "short_name": "DoberAI",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Asystent AI dla Dobera",
+  "icons": [{
+    "src": "https://cdn-icons-png.flaticon.com/512/4712/4712109.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
